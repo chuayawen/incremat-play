@@ -10,10 +10,6 @@ Developed as part of **IncreMat, RC4 STEER Shenzhen 2026**, alongside the [Incre
 
 **Start here:** [Flutter app and code tour](src/incremat_play/README.md) · [Setup instructions](SETUP.md) · [Caregiver app](https://github.com/chuayawen/incremat)
 
-## Project context and my contribution
-
-IncreMat was a team prototype combining an exercise mat, caregiver monitoring, and a senior-facing app. I, **Chua Ya Wen**, led feature development and iterative testing across both Flutter apps. My work included gamification for older adults in Singapore and Shenzhen, prototype testing with older adults in Shenzhen, and repeated refinements to the app experience.
-
 ## What the Play app does
 
 - **Pet progression:** hatch eggs, collect pets in a sanctuary, and grow them through baby, young, and adult stages.
@@ -73,4 +69,4 @@ The app is a **student prototype**. Its current widget test is a placeholder; it
 
 ## Credits
 
-The repository started from [Sustainable Living Lab's UTC_2738_STEER template](https://github.com/SustainableLivingLab/UTC_2738_STEER). The original **MIT license and SL2 copyright notice** are retained in [LICENSE](LICENSE). The Flutter app contribution described above was developed as part of the IncreMat team project.
+The repository started from [Sustainable Living Lab's UTC_2738_STEER template](https://github.com/SustainableLivingLab/UTC_2738_STEER). The original **MIT license and SL2 copyright notice** are retained in [LICENSE](LICENSE).
