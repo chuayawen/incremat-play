@@ -2,7 +2,7 @@
 
 The senior-facing component of [IncreMat](../../README.md). It uses exercise sessions from the [Caregiver app](https://github.com/chuayawen/incremat) to support daily goals, a growing virtual pet, and a collection of companion creatures.
 
-**[Project context and contribution](../../README.md#project-context-and-my-contribution)** · **[Full setup guide](../../SETUP.md)**
+**[Project overview](../../README.md)** · **[Full setup guide](../../SETUP.md)**
 
 ## Code tour
 
